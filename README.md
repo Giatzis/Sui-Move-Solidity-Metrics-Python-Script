@@ -15,3 +15,10 @@ Two Python scripts, one for Sui Move and one for Solidity, for calculating smart
 - Cyclomatic Complexity (CC): Counts the complexity of the control flow.
 
 
+## Running the Python Script
+There are two ways running the above Python Scripts:
+1) Throught Command Line, run
+```sh
+python solidity_analyzer.py
+```
+2) Throught Visual Studio Code, install Python extension and run.
