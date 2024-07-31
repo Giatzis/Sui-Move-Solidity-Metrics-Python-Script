@@ -17,8 +17,13 @@ Two Python scripts, one for Sui Move and one for Solidity, for calculating smart
 
 ## Running the Python Script
 There are two ways running the above Python Scripts:
-1) Throught Command Line, run
+1) Throught Command Line, for Solidity run
 ```sh
-python solidity_analyzer.py
+python solidity_check.py
 ```
+and for Sui Move run
+```sh
+python sui_check.py
+```
+
 2) Throught Visual Studio Code, install Python extension and run.
